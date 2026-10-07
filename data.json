@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Soraya Ghina",
+        "nim": "2609116081",
+        "mata_kuliah": "Pemrograman Python",
+        "nilai": 85
+    },
+    {
+        "nama": "Aya",
+        "nim": "2609116082",
+        "mata_kuliah": "Pemrograman Python",
+        "nilai": 80
+    },
+    {
+        "nama": "Hnrayaa",
+        "nim": "2609116083",
+        "mata_kuliah": "Pemrograman Python",
+        "nilai": 90
+    },
+    {
+        "nama": "milok",
+        "nim": "2609116084",
+        "mata_kuliah": "Pemograman Python",
+        "nilai": 88.0
+    }
+]
